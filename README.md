@@ -1,6 +1,7 @@
 # Lottery-gamifier
 
-### Objective
+### Objective 
+(use case specific)
 
 Design an application that adds gamification by choosing retailers meeting certain criteria weighted based on the purchasing ability of retailers in a random manner.
 
